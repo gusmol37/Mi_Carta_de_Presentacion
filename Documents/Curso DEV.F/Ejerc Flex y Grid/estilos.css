@@ -1,0 +1,60 @@
+.spa{
+    background-image: initial;
+    height: 800px;
+    position: relative;
+    margin-bottom: 2rem;
+    height: 45rem;
+    width: 115rem;
+    padding: 2rem 2rem;
+
+
+}
+
+.titulo{
+    padding: 1rem 1px;
+
+text-align: center;
+
+    
+}
+
+.navegacion-principal{   
+
+    text-align: end;
+}
+
+img{
+    height: 20rem;
+    width: 20rem;
+    padding: 3rem 2rem 3rem 2rem;
+
+
+}
+
+
+.Inicio{   
+    margin: 20px; 
+    align-items: flex-end;
+}
+
+.Productos{   
+    margin: 20px; 
+}
+
+.Servicios{   
+    margin: 20px; 
+}
+
+.Contacto{   
+    margin: 20px; 
+}
+
+.rrss{
+    text-align: end;
+    padding:  20px 40px ;
+}
+
+body  {
+    font-size: 2rem; 
+    font-family: 'Great Vibes', cursive;
+    background-image: linear-gradient( to top, #4789d4 0%, rgb(225, 0, 255) );
